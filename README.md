@@ -47,7 +47,7 @@ The system manages stations, routes, trains, users, tickets, and transactions wh
   <li>Proper relational integirty using foreign keys</li>
 </ul>
 
-<h2>Techinologies used</h2>
+<h2>Technologies used</h2>
 <ol>
   <li>PostgreSQL</li>
   <li>SQL</li>
